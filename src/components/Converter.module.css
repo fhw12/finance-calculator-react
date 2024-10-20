@@ -1,0 +1,10 @@
+.container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.label, .select, .input {
+    margin-bottom: 10px;
+}
